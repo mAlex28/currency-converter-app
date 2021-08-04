@@ -5,3 +5,4 @@ Android application to convert currencies. This application uses a currency API 
 
 API : https://free.currencyconverterapi.com/
 
+(![currency_converter](https://user-images.githubusercontent.com/52848335/128121806-01f6dacb-f6bb-4672-b932-ec1333c627e5.png)
